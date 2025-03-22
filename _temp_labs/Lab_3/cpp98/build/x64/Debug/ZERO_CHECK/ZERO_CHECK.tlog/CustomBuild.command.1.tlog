@@ -1,0 +1,10 @@
+^C:\USERS\37529\ONEDRIVE\РАБОЧИЙ СТОЛ\OS\LAB_3\CPP98\BUILD\CMAKEFILES\9E64F227F33B2035514487B27CFD8D71\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/37529/OneDrive/Рабочий стол/OS/Lab_3/cpp98" "-BC:/Users/37529/OneDrive/Рабочий стол/OS/Lab_3/cpp98/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/37529/OneDrive/Рабочий стол/OS/Lab_3/cpp98/build/marker_sync.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

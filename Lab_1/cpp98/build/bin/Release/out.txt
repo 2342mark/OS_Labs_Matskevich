@@ -1,0 +1,5 @@
+Report for file "in.bin"
+Employee number | Employee name | Hours | Salary
+              1 |        Alicee |     3 |     75
+              2 |         David |    30 |    750
+              3 |        Kirill |     4 |    100

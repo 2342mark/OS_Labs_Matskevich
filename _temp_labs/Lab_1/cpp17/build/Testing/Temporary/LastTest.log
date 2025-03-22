@@ -1,0 +1,84 @@
+Start testing: Apr 21 08:20 Беларусь (зима)
+----------------------------------------------------------
+1/3 Testing: MainTest.PrintBinaryFile
+1/3 Test: MainTest.PrintBinaryFile
+Command: "C:/Users/37529/OneDrive/Р Р°Р±РѕС‡РёР№ СЃС‚РѕР»/OS/Lab1/cpp17/build/Release/tests.exe" "--gtest_filter=MainTest.PrintBinaryFile" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/37529/OneDrive/Р Р°Р±РѕС‡РёР№ СЃС‚РѕР»/OS/Lab1/cpp17/build
+"MainTest.PrintBinaryFile" start time: Apr 21 08:20 Беларусь (зима)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\37529\OneDrive\Р Р°Р±РѕС‡РёР№ СЃС‚РѕР»\OS\Lab1\cpp17\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = MainTest.PrintBinaryFile
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MainTest
+[ RUN      ] MainTest.PrintBinaryFile
+[       OK ] MainTest.PrintBinaryFile (1 ms)
+[----------] 1 test from MainTest (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MainTest.PrintBinaryFile" end time: Apr 21 08:20 Беларусь (зима)
+"MainTest.PrintBinaryFile" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/3 Testing: CreatorTest.WriteAndReadEmployee
+2/3 Test: CreatorTest.WriteAndReadEmployee
+Command: "C:/Users/37529/OneDrive/Р Р°Р±РѕС‡РёР№ СЃС‚РѕР»/OS/Lab1/cpp17/build/Release/tests.exe" "--gtest_filter=CreatorTest.WriteAndReadEmployee" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/37529/OneDrive/Р Р°Р±РѕС‡РёР№ СЃС‚РѕР»/OS/Lab1/cpp17/build
+"CreatorTest.WriteAndReadEmployee" start time: Apr 21 08:20 Беларусь (зима)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\37529\OneDrive\Р Р°Р±РѕС‡РёР№ СЃС‚РѕР»\OS\Lab1\cpp17\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = CreatorTest.WriteAndReadEmployee
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CreatorTest
+[ RUN      ] CreatorTest.WriteAndReadEmployee
+[       OK ] CreatorTest.WriteAndReadEmployee (5 ms)
+[----------] 1 test from CreatorTest (5 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (6 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"CreatorTest.WriteAndReadEmployee" end time: Apr 21 08:20 Беларусь (зима)
+"CreatorTest.WriteAndReadEmployee" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/3 Testing: ReporterTest.GenerateReport
+3/3 Test: ReporterTest.GenerateReport
+Command: "C:/Users/37529/OneDrive/Р Р°Р±РѕС‡РёР№ СЃС‚РѕР»/OS/Lab1/cpp17/build/Release/tests.exe" "--gtest_filter=ReporterTest.GenerateReport" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/37529/OneDrive/Р Р°Р±РѕС‡РёР№ СЃС‚РѕР»/OS/Lab1/cpp17/build
+"ReporterTest.GenerateReport" start time: Apr 21 08:20 Беларусь (зима)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\37529\OneDrive\Р Р°Р±РѕС‡РёР№ СЃС‚РѕР»\OS\Lab1\cpp17\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = ReporterTest.GenerateReport
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ReporterTest
+[ RUN      ] ReporterTest.GenerateReport
+[       OK ] ReporterTest.GenerateReport (4 ms)
+[----------] 1 test from ReporterTest (4 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (4 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"ReporterTest.GenerateReport" end time: Apr 21 08:20 Беларусь (зима)
+"ReporterTest.GenerateReport" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 21 08:20 Беларусь (зима)

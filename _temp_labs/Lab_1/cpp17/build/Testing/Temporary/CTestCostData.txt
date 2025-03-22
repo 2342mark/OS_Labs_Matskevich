@@ -1,0 +1,4 @@
+MainTest.PrintBinaryFile 2 0.0074256
+CreatorTest.WriteAndReadEmployee 2 0.0174017
+ReporterTest.GenerateReport 2 0.0208005
+---
