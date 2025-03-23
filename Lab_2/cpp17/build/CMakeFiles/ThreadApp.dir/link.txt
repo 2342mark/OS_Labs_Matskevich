@@ -1,0 +1,1 @@
+/ucrt64/bin/c++.exe -Wl,--enable-auto-import CMakeFiles/ThreadApp.dir/main.cpp.o -o ThreadApp.exe -Wl,--out-implib,libThreadApp.dll.a -Wl,--major-image-version,0,--minor-image-version,0
