@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/37529/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/OS/Lab_3/cpp17/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate"
+		},
+		{
+			"file" : "C:/Users/37529/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/OS/Lab_3/cpp17/build/_deps/googletest-subbuild/CMakeFiles/3d79ddc5bb4b233ce0a9190c1e8c0ebc/googletest-populate.rule"
+		},
+		{
+			"file" : "C:/Users/37529/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/OS/Lab_3/cpp17/build/_deps/googletest-subbuild/CMakeFiles/620dd5905157e29631977edaf433aa86/googletest-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/37529/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/OS/Lab_3/cpp17/build/_deps/googletest-subbuild/CMakeFiles/f24731cc1e52409fb70c0bb7ee8c5d7d/googletest-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/37529/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/OS/Lab_3/cpp17/build/_deps/googletest-subbuild/CMakeFiles/f24731cc1e52409fb70c0bb7ee8c5d7d/googletest-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/37529/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/OS/Lab_3/cpp17/build/_deps/googletest-subbuild/CMakeFiles/f24731cc1e52409fb70c0bb7ee8c5d7d/googletest-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/37529/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/OS/Lab_3/cpp17/build/_deps/googletest-subbuild/CMakeFiles/f24731cc1e52409fb70c0bb7ee8c5d7d/googletest-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/37529/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/OS/Lab_3/cpp17/build/_deps/googletest-subbuild/CMakeFiles/f24731cc1e52409fb70c0bb7ee8c5d7d/googletest-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/37529/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/OS/Lab_3/cpp17/build/_deps/googletest-subbuild/CMakeFiles/f24731cc1e52409fb70c0bb7ee8c5d7d/googletest-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/37529/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/OS/Lab_3/cpp17/build/_deps/googletest-subbuild/CMakeFiles/f24731cc1e52409fb70c0bb7ee8c5d7d/googletest-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/37529/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/OS/Lab_3/cpp17/build/_deps/googletest-subbuild/CMakeFiles/f24731cc1e52409fb70c0bb7ee8c5d7d/googletest-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest-populate"
+		],
+		"name" : "googletest-populate"
+	}
+}
