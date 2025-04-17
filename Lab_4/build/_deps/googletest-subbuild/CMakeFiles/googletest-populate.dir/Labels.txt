@@ -1,0 +1,14 @@
+# Target labels
+ googletest-populate
+# Source files and their labels
+C:/Users/37529/OneDrive/Рабочий стол/OS/Новая папка/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate
+C:/Users/37529/OneDrive/Рабочий стол/OS/Новая папка/build/_deps/googletest-subbuild/CMakeFiles/6f557693f69034aaec87ba6d6915f9eb/googletest-populate.rule
+C:/Users/37529/OneDrive/Рабочий стол/OS/Новая папка/build/_deps/googletest-subbuild/CMakeFiles/6e3ac6d895ae00c294da857d1a226993/googletest-populate-complete.rule
+C:/Users/37529/OneDrive/Рабочий стол/OS/Новая папка/build/_deps/googletest-subbuild/CMakeFiles/43734476788daba64acbdef218b1de92/googletest-populate-build.rule
+C:/Users/37529/OneDrive/Рабочий стол/OS/Новая папка/build/_deps/googletest-subbuild/CMakeFiles/43734476788daba64acbdef218b1de92/googletest-populate-configure.rule
+C:/Users/37529/OneDrive/Рабочий стол/OS/Новая папка/build/_deps/googletest-subbuild/CMakeFiles/43734476788daba64acbdef218b1de92/googletest-populate-download.rule
+C:/Users/37529/OneDrive/Рабочий стол/OS/Новая папка/build/_deps/googletest-subbuild/CMakeFiles/43734476788daba64acbdef218b1de92/googletest-populate-install.rule
+C:/Users/37529/OneDrive/Рабочий стол/OS/Новая папка/build/_deps/googletest-subbuild/CMakeFiles/43734476788daba64acbdef218b1de92/googletest-populate-mkdir.rule
+C:/Users/37529/OneDrive/Рабочий стол/OS/Новая папка/build/_deps/googletest-subbuild/CMakeFiles/43734476788daba64acbdef218b1de92/googletest-populate-patch.rule
+C:/Users/37529/OneDrive/Рабочий стол/OS/Новая папка/build/_deps/googletest-subbuild/CMakeFiles/43734476788daba64acbdef218b1de92/googletest-populate-test.rule
+C:/Users/37529/OneDrive/Рабочий стол/OS/Новая папка/build/_deps/googletest-subbuild/CMakeFiles/43734476788daba64acbdef218b1de92/googletest-populate-update.rule
