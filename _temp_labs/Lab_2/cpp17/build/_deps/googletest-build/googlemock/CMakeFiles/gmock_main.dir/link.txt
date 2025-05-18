@@ -1,2 +1,0 @@
-/ucrt64/bin/ar.exe qc ../../../lib/libgmock_main.a CMakeFiles/gmock_main.dir/src/gmock_main.cc.o
-/ucrt64/bin/ranlib.exe ../../../lib/libgmock_main.a
