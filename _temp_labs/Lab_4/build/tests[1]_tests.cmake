@@ -1,7 +1,0 @@
-add_test([=[SharedHeaderTest.InitializeHeader]=]  [==[C:/Users/37529/OneDrive/Рабочий стол/OS/Новая папка/build/Debug/tests.exe]==] [==[--gtest_filter=SharedHeaderTest.InitializeHeader]==] --gtest_also_run_disabled_tests)
-set_tests_properties([=[SharedHeaderTest.InitializeHeader]=]  PROPERTIES WORKING_DIRECTORY [==[C:/Users/37529/OneDrive/Рабочий стол/OS/Новая папка/build]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
-add_test([=[MessageTest.WriteAndReadMessage]=]  [==[C:/Users/37529/OneDrive/Рабочий стол/OS/Новая папка/build/Debug/tests.exe]==] [==[--gtest_filter=MessageTest.WriteAndReadMessage]==] --gtest_also_run_disabled_tests)
-set_tests_properties([=[MessageTest.WriteAndReadMessage]=]  PROPERTIES WORKING_DIRECTORY [==[C:/Users/37529/OneDrive/Рабочий стол/OS/Новая папка/build]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
-add_test([=[FIFOQueueTest.CircularBehavior]=]  [==[C:/Users/37529/OneDrive/Рабочий стол/OS/Новая папка/build/Debug/tests.exe]==] [==[--gtest_filter=FIFOQueueTest.CircularBehavior]==] --gtest_also_run_disabled_tests)
-set_tests_properties([=[FIFOQueueTest.CircularBehavior]=]  PROPERTIES WORKING_DIRECTORY [==[C:/Users/37529/OneDrive/Рабочий стол/OS/Новая папка/build]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
-set(  tests_TESTS SharedHeaderTest.InitializeHeader MessageTest.WriteAndReadMessage FIFOQueueTest.CircularBehavior)

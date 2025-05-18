@@ -1,7 +1,0 @@
-add_test([=[MainTest.PrintBinaryFile]=]  [==[C:/Users/37529/OneDrive/Рабочий стол/OS/Lab1/cpp17/build/Release/tests.exe]==] [==[--gtest_filter=MainTest.PrintBinaryFile]==] --gtest_also_run_disabled_tests)
-set_tests_properties([=[MainTest.PrintBinaryFile]=]  PROPERTIES WORKING_DIRECTORY [==[C:/Users/37529/OneDrive/Рабочий стол/OS/Lab1/cpp17/build]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
-add_test([=[CreatorTest.WriteAndReadEmployee]=]  [==[C:/Users/37529/OneDrive/Рабочий стол/OS/Lab1/cpp17/build/Release/tests.exe]==] [==[--gtest_filter=CreatorTest.WriteAndReadEmployee]==] --gtest_also_run_disabled_tests)
-set_tests_properties([=[CreatorTest.WriteAndReadEmployee]=]  PROPERTIES WORKING_DIRECTORY [==[C:/Users/37529/OneDrive/Рабочий стол/OS/Lab1/cpp17/build]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
-add_test([=[ReporterTest.GenerateReport]=]  [==[C:/Users/37529/OneDrive/Рабочий стол/OS/Lab1/cpp17/build/Release/tests.exe]==] [==[--gtest_filter=ReporterTest.GenerateReport]==] --gtest_also_run_disabled_tests)
-set_tests_properties([=[ReporterTest.GenerateReport]=]  PROPERTIES WORKING_DIRECTORY [==[C:/Users/37529/OneDrive/Рабочий стол/OS/Lab1/cpp17/build]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
-set(  tests_TESTS MainTest.PrintBinaryFile CreatorTest.WriteAndReadEmployee ReporterTest.GenerateReport)
