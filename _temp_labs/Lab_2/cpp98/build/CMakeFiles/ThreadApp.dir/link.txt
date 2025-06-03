@@ -1,3 +1,0 @@
-/usr/bin/cmake.exe -E rm -f CMakeFiles/ThreadApp.dir/objects.a
-/ucrt64/bin/ar.exe qc CMakeFiles/ThreadApp.dir/objects.a @CMakeFiles/ThreadApp.dir/objects1.rsp
-/ucrt64/bin/c++.exe -Wl,--whole-archive CMakeFiles/ThreadApp.dir/objects.a -Wl,--no-whole-archive -o ThreadApp.exe -Wl,--out-implib,libThreadApp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/ThreadApp.dir/linkLibs.rsp

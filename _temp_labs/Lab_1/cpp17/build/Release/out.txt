@@ -1,5 +1,0 @@
-Report for file "in.bin"
-Employee number | Employee name | Hours | Salary
-              1 |         Alice |     3 |     90
-              2 |         David |     6 |    180
-              3 |        Kirill |     9 |    270

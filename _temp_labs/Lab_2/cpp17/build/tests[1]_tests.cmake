@@ -1,7 +1,0 @@
-add_test([=[ThreadTests.MinMaxTest]=]  [==[/c/Users/37529/OneDrive/Рабочий стол/OS/Lab_2/cpp17/build/tests.exe]==] [==[--gtest_filter=ThreadTests.MinMaxTest]==] --gtest_also_run_disabled_tests)
-set_tests_properties([=[ThreadTests.MinMaxTest]=]  PROPERTIES WORKING_DIRECTORY [==[/c/Users/37529/OneDrive/Рабочий стол/OS/Lab_2/cpp17/build]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
-add_test([=[ThreadTests.AverageTest]=]  [==[/c/Users/37529/OneDrive/Рабочий стол/OS/Lab_2/cpp17/build/tests.exe]==] [==[--gtest_filter=ThreadTests.AverageTest]==] --gtest_also_run_disabled_tests)
-set_tests_properties([=[ThreadTests.AverageTest]=]  PROPERTIES WORKING_DIRECTORY [==[/c/Users/37529/OneDrive/Рабочий стол/OS/Lab_2/cpp17/build]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
-add_test([=[ThreadTests.ReplaceMinMaxLogic]=]  [==[/c/Users/37529/OneDrive/Рабочий стол/OS/Lab_2/cpp17/build/tests.exe]==] [==[--gtest_filter=ThreadTests.ReplaceMinMaxLogic]==] --gtest_also_run_disabled_tests)
-set_tests_properties([=[ThreadTests.ReplaceMinMaxLogic]=]  PROPERTIES WORKING_DIRECTORY [==[/c/Users/37529/OneDrive/Рабочий стол/OS/Lab_2/cpp17/build]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
-set(  tests_TESTS ThreadTests.MinMaxTest ThreadTests.AverageTest ThreadTests.ReplaceMinMaxLogic)

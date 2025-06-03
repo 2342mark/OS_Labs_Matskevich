@@ -1,3 +1,0 @@
-/c/Users/37529/OneDrive/Рабочий стол/Lab_2/cpp98/build/CMakeFiles/ThreadApp.dir
-/c/Users/37529/OneDrive/Рабочий стол/Lab_2/cpp98/build/CMakeFiles/edit_cache.dir
-/c/Users/37529/OneDrive/Рабочий стол/Lab_2/cpp98/build/CMakeFiles/rebuild_cache.dir

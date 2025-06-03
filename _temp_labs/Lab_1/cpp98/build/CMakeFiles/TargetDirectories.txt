@@ -1,5 +1,0 @@
-C:/Users/37529/OneDrive/Рабочий стол/OS/Lab1/cpp98/build/CMakeFiles/Creator.dir
-C:/Users/37529/OneDrive/Рабочий стол/OS/Lab1/cpp98/build/CMakeFiles/Main.dir
-C:/Users/37529/OneDrive/Рабочий стол/OS/Lab1/cpp98/build/CMakeFiles/Reporter.dir
-C:/Users/37529/OneDrive/Рабочий стол/OS/Lab1/cpp98/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/37529/OneDrive/Рабочий стол/OS/Lab1/cpp98/build/CMakeFiles/ZERO_CHECK.dir
